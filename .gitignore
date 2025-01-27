@@ -1,0 +1,17 @@
+# Unity 관련 파일 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VSCode 관련 파일
+.vscode/
+
+# OS별 파일 무시
+.DS_Store
+Thumbs.db
+
+*.meta

@@ -9,8 +9,6 @@
 
 
 
-![Icon](https://github.com/user-attachments/assets/bdbb5ad6-8ae8-4b5b-b5f4-6d3150acde01)
-
 
 
 

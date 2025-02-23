@@ -3,6 +3,7 @@
 
 
 가천대학교 학생들이 즐길 수 있게끔 만든 게임입니다!
+다운로드 : (https://play.google.com/store/apps/details?id=com.NouelStudio.RunFreshman&hl=ko)
 
 
 ![게임타이틀](https://github.com/user-attachments/assets/37484030-3d2d-416d-a966-9c6709822950)

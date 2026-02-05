@@ -6,6 +6,8 @@
 
 다운로드 : (https://play.google.com/store/apps/details?id=com.NouelStudio.RunFreshman&hl=ko)
 
+사용스택 : C#, Unity, 뒤끝
+
 
 ![게임타이틀](https://github.com/user-attachments/assets/37484030-3d2d-416d-a966-9c6709822950)
 

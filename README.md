@@ -3,11 +3,7 @@
 <p align="center"><strong>도망가 새내기!</strong></p>
 <p align="center">
   가천대학교 학생들을 위해 만든 Unity 기반 모바일 생존 액션 게임
-  <br />
-  <a href="https://play.google.com/store/apps/details?id=com.NouelStudio.RunFreshman&hl=ko"><strong>Google Play에서 보기</strong></a>
-</p>
 
-다운로드 : (https://play.google.com/store/apps/details?id=com.NouelStudio.RunFreshman&hl=ko)
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Unity-black?style=for-the-badge&logo=csharp" alt="C# Unity" />
   <img src="https://img.shields.io/badge/Engine-Unity-white?style=for-the-badge&logo=unity" alt="Unity" />

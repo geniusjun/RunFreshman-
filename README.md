@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Unity-black?style=for-the-badge&logo=csharp" alt="C# Unity" />
-  <img src="https://img.shields.io/badge/Engine-Unity-white?style=for-the-badge&logo=unity" alt="Unity" />
   <img src="https://img.shields.io/badge/Backend-%EB%92%A4%EB%81%9D-1f6feb?style=for-the-badge" alt="BackEnd" />
 </p>
 
